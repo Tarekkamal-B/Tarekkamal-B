@@ -1,3 +1,4 @@
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Tarekkamal-B)
 - 👋 Hi, I’m @Tarekkamal-B  
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning Test Automation
