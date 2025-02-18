@@ -1,7 +1,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Tarekkamal-B)
-- 👋 Hi, I’m @Tarekkamal-B  
-- 👀 I’m interested in Devops engineering
-- 🌱 I’m currently learning Devops engineering
+- 👋 Hi, I’m @Tarekkamal-B
+- 👀 I’m interested in Software QA & Test Automation with a strong focus on CI/CD and DevOps practices  
+- 🌱 I’m currently learning DevOps tools to enhance test automation and continuous testing  
 - 💞️ I’m looking to collaborate on Open-source testing projects focusing on web applications
 - 📫 How to reach me https://www.linkedin.com/in/tarek-kamal-251477326
 - 😄 Pronouns: he/him
