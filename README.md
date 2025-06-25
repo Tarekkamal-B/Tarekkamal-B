@@ -1,4 +1,4 @@
-![Profile views](https://komarev.com/ghpvc/?username=Tarekkamal-B&label=Visitors&color=gray&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=Tarekkamal-B&label=Visitors&color=1f1f1f&style=flat-square)
 # Tarek Kamal
 
 Software QA Engineer | Test Automation Specialist | DevOps Learner
