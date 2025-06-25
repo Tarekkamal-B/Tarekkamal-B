@@ -1,7 +1,9 @@
-![Profile views](https://komarev.com/ghpvc/?username=Tarekkamal-B&label=Profile%20Views&color=0077B5&style=flat-square)
-# Tarek Kamal
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tarekkamal-B&label=Profile%20Views&color=0077B5&style=flat-square" alt="profile views" />
+</p>
 
-Software QA Engineer | Test Automation Specialist | DevOps Learner
+<h1 align="center">Tarek Kamal</h1>
+<p align="center"><b>Software QA Engineer | Test Automation Specialist | DevOps Learner</b></p>
 
 ---
 
