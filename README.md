@@ -1,4 +1,3 @@
-![Tarek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tarekkamal-B&show_icons=true&theme=default&hide_title=true)
 ![Profile views](https://komarev.com/ghpvc/?username=Tarekkamal-B&label=Profile%20Views&color=0077B5&style=flat-square)
 # Tarek Kamal
 
@@ -55,7 +54,7 @@ Software QA Engineer | Test Automation Specialist | DevOps Learner
   </a>
 </p>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tarekkamal-B&layout=compact)
 
 
 <!---
