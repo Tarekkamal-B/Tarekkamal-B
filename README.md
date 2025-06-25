@@ -1,9 +1,15 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Tarekkamal-B)
-- 👋 Hi, I’m @Tarekkamal-B
-- 👀 I’m interested in Software QA & Test Automation with a strong focus on CI/CD and DevOps practices  
-- 🌱 I’m currently learning DevOps tools to enhance test automation and continuous testing  
-- 💞️ I’m looking to collaborate on Open-source testing projects focusing on web applications
-- 📫 How to reach me https://www.linkedin.com/in/tarek-kamal-251477326
+## 👋 Hey there! I'm @Tarekkamal-B
+
+🔍 Passionate about **Software Quality Assurance** & **Test Automation** with a strong drive for **CI/CD** and **DevOps integration**.
+
+🧠 Currently exploring advanced **DevOps tools** to elevate continuous testing, shift-left strategies, and automation pipelines.
+
+🌐 Actively looking to **collaborate on open-source QA projects**, especially those focused on **web applications**, E2E testing, and performance benchmarks.
+
+💬 Let’s connect and talk testing, tooling, or tech!  
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tarek-kamal-251477326)
+
 
 ## Languages and Tools:
 
